@@ -12,9 +12,9 @@
 #!.bash_profile
 #!.Xresources
 
-
-#!./.config/i3/
-
+!/.config/
+/.config/**
+!/.config/i3/
 
 
 # ...even if they are in subdirectories
@@ -23,3 +23,4 @@
 # if the files to be tracked are in subdirectories
 #!*/a/b/file1.txt
 #!*/a/b/c/*
+

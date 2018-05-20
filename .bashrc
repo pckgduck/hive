@@ -161,7 +161,11 @@ alias gpumeminfo='grep -i —color memory /var/log/Xorg.0.log'
 
 
 alias goo='google-chrome'
+alias gooi='google-chrome --incognito'
 alias tele='/opt/telegram/Telegram'
+
+
+
 
 
 
