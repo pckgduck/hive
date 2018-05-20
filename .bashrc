@@ -118,7 +118,6 @@ fi
 
 #================================================================================================
 
-alias c='clear'
 alias ..='cd ..'
 
 alias vi='vim'
@@ -132,7 +131,7 @@ alias reboot='sudo reboot'
 alias update='sudo apt-get upgrade'
 fi
 
-# ИНФОРМАЦИЯ О СИСТЕМЕ
+########### ИНФОРМАЦИЯ О СИСТЕМЕ
 
 #Использование памяти:
 alias meminfo='free -m -l -t'
@@ -161,17 +160,8 @@ alias gpumeminfo='grep -i —color memory /var/log/Xorg.0.log'
 
 
 
-
-
-
-# БРАУЗЕРЫ
-
-#alias ff4=’/opt/firefox4/firefox’
-#alias ff13=’/opt/firefox13/firefox’
-#alias chrome=’/opt/google/chrome/chrome’
-#alias opera=’/opt/opera/opera’
-
-alias chrome='google-chrome'
+alias goo='google-chrome'
+alias tele='/opt/telegram/Telegram'
 
 
 
